@@ -1,14 +1,14 @@
 	{
   "name": "consensus-pie-chart",
   "version": "1.0.0",
-  "description": "",
+  "description": "package.json",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
   "chart.js": ">=2.9.4"
 }
     "angular": "^1.5.0",
